@@ -30,7 +30,7 @@ substitutions:
     
     #Repository Specific configuration. DevOps can change this settings
     _DEPLOYMENTNAME: nginx-1
-    _CONTAINERNAME: autopilot-cluster-1    
+    _CONTAINERNAME: nginx-1   
     _REPO_NAME: github_arssssl_ci-cd
     
     # Developers ONLY change
